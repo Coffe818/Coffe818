@@ -10,7 +10,7 @@
 <h1></h1>
 
 <div align="left">
-   <h3> 📝 I'm learning program language :</h3>
+   <h3> 📝 I'm learning :</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" height="80" />
 </div>
 
