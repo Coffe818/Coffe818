@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/DBW3BniaWrFo4/giphy.gif" width="300" />
     <h1 align="center">Hello 👋, I'm Coffe818</h1>
-    <h3 align="center">A student from the Uniersidad Autonoma de Coahuila, who is just learning to program, and this
+    <h3 align="center">A student from the Universidad Autonoma de Coahuila, who is just learning to program, and this
         is my profile in which I will be uploading my projects, if you see any errors or if I did something wrong I
         would be very grateful if you correct me.</h3>
 
