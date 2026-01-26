@@ -14,5 +14,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" height="80" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height="80" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="80" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"  height="80"/>
 </div>
+
 
