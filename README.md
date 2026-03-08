@@ -60,12 +60,8 @@ I’m a developer who genuinely loves the **"build and learn"** cycle. I enjoy d
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Coffe818&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=10" height="180" alt="streak graph" />
   <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Coffe818/Coffe818/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Coffe818/Coffe818/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Coffe818/Coffe818/output/pacman-contribution-graph.svg">
-  </picture>
 </div>
+
 
 ---
 ### 🤝 Let's Connect!
@@ -78,3 +74,4 @@ I’m a developer who genuinely loves the **"build and learn"** cycle. I enjoy d
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
 </div>
+
